@@ -10,4 +10,4 @@ hamburgerBtn.addEventListener('click', () => {
         toggleImg.src = './img/icon-hamburger.svg';
     }
 
-   })
+   }) 

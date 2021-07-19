@@ -282,4 +282,27 @@ html {
     .nav-links li:last-child{
       padding-bottom: 0px;
     }
+    .header-text{
+      flex:1 0 70%;
+    }
+    .header-images{
+      flex: 1 0 30%;
+    }
+    .header-wrap{
+      padding-top: 30px;
+    }
+
+    .header-images img:first-child{
+      right:-50px;
+    }
+    .header-images img:last-child{
+      top:-135px;
+      right:-72px;
+    }
+    .header-text h1{
+      font-size: 30px;;
+    }
+    .header-text p{
+      font-size: 16px;;
+    }
     }
